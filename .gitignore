@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+# Data, logs, and models
+data/
+logs/
+models/
+
+# Python cache
+__pycache__/
